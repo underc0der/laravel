@@ -3,3 +3,5 @@
 .env.php
 .env
 *.html
+*.zip
+*.php
