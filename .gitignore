@@ -4,5 +4,5 @@
 .env
 config.php
 index.php
-/contenidos
-/admin
+/contenidos/
+/admin/
