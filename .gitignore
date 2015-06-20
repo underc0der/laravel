@@ -2,6 +2,7 @@
 .env.*.php
 .env.php
 .env
-*.html
-*.zip
-*.php
+config.php
+index.php
+/contenidos
+/admin
